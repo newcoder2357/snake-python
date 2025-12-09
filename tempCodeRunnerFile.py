@@ -1,1 +1,0 @@
-prepare_nickname(Name)
