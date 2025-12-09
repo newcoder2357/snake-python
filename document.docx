@@ -1,0 +1,8 @@
+﻿font = pygame.font.Font(None, 30)  #Định nghĩa font kích thước cho văn bản 
+text_img = font.render(Content, True, Color) #Chuyển văn bản Content thành một image, có khử răng cưa, màu chữ Color. 
+
+
+image = pygame.image.load("Path file").convert_alpha() #Load ảnh thông qua đường dẫn và conver_alpha để thực hiện các lớp phủ 
+image = pygame.transform.scale(image, size) #Scale một ảnh về kích thước tùy ý.
+
+

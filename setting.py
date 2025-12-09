@@ -1,0 +1,3 @@
+WIDTH = 1202
+HEIGHT = 752
+CAPTION = "Batle Snake"
